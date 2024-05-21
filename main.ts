@@ -9,6 +9,7 @@ radio.setGroup(210)
 let strip = neopixel.create(DigitalPin.P0, 24, NeoPixelMode.RGB)
 let strip2 = neopixel.create(DigitalPin.P16, 24, NeoPixelMode.RGB)
 strip.showRainbow(1, 360)
+strip2.showRainbow(1, 360)
 
 let backward: number = 0
 let right: number = 0
