@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-magicbit-pca9685": "github:TomasKazda/pxt-magicbit-pca9685#1e097c914b2c7ed1f4071d7b6288ef64812030e2",
+        "pxt-sensors": "github:TomasKazda/pxt-sensors#a4146d725fe882187db670cb094772d4e747a220"
     },
     "files": [
         "main.ts",
