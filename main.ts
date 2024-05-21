@@ -1,4 +1,11 @@
-basic.showIcon(IconNames.Angry)
+
+basic.showLeds(`
+# # . . .
+# # . # #
+. . . . .
+# . . . #
+. # # # .
+`)
 radio.setGroup(210)
 
 let backward: number = 0
