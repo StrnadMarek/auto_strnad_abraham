@@ -6,6 +6,7 @@ basic.showLeds(`
 . # # # .
 `)
 radio.setGroup(210)
+PCAmotor.Servo(PCAmotor.Servos.S1, 1500)
 let strip = neopixel.create(DigitalPin.P0, 24, NeoPixelMode.RGB)
 let strip2 = neopixel.create(DigitalPin.P16, 24, NeoPixelMode.RGB)
 strip.showRainbow(1, 360)
