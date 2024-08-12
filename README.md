@@ -19,6 +19,6 @@ To edit this repository in MakeCode.
 * paste **https://github.com/strnadmarek/auto_strnad_abraham** and click import
 
 #### Metadata (used for search, rendering)
-
+asdasdasdhv  asfjnnjsgkjasf
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
